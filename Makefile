@@ -24,6 +24,7 @@ SLIDES = 00_INTRO.pdf \
          28_Reverse_Engeneering.pdf \
          29_Linux_Libre.pdf \
          30_paradox.pdf \
+         31_WebCam_MacBooks.pdf \
          39_thanks.pdf
 
 PDF = WebBR2015_MAME_InternetArchive.pdf
