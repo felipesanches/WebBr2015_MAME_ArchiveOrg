@@ -32,7 +32,9 @@
 31 WebCam MacBooks
 32 Escândalo da VolksWagen: firmware malicioso
 33 UEFI / SecureBoot
-34 Futuro: scanners 3D + OpenGL / WebGL
-35 Transpilação de software proprietário?
-36 Javascript: arbitrary code injection
-37 Thanks & Contacts
+34 Internet of Things
+35 Transpilação: C -> Javascript
+36 Transpilação de software proprietário?
+37 Javascript: arbitrary code injection
+38 Futuro: scanners 3D + OpenGL / WebGL
+39 Thanks & Contacts
