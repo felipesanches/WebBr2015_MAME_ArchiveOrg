@@ -13,6 +13,7 @@ SLIDES = 00_INTRO.pdf \
          10_MAME.pdf \
          11_gunsmoke_placa.pdf \
          12_gunsmoke.pdf \
+         13_Carrier_Air_Wing_placa.pdf \
          14_Carrier_Air_Wing.pdf \
          16_MESS.pdf \
          23_Replicator_1.pdf \

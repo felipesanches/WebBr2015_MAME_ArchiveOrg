@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
-   sodipodi:docname="28_Reverse_Engeneering.svg">
+   sodipodi:docname="13_Carrier_Air_Wing_placa.svg">
   <defs
      id="defs4">
     <clipPath
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4625"
-     inkscape:cx="713.51351"
-     inkscape:cy="600"
+     inkscape:zoom="0.44833333"
+     inkscape:cx="800"
+     inkscape:cy="595.53903"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,7 +77,7 @@
      id="layer1"
      transform="translate(0,41.666668)">
     <rect
-       style="fill:#fefefc;fill-opacity:1;stroke:none"
+       style="fill:#fcfff8;fill-opacity:1;stroke:none"
        id="rect3370"
        width="451.55557"
        height="337.43515"
@@ -93,27 +93,48 @@
        height="50.492134"
        width="451.55557"
        id="rect4075"
-       style="fill:#cccccc;fill-opacity:0.61783441;stroke:none" />
+       style="fill:#f4f4f4;fill-opacity:0.61783439;stroke:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="225.75504"
+       x="225.55978"
        y="-5.3350682"
        id="text4069"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="225.75504"
+         x="225.55978"
          y="-5.3350682"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
-         id="tspan3358">Engenharia reversa</tspan></text>
+         id="tspan3358">Carrier Air Wing</tspan></text>
+    <rect
+       style="fill:#f4f4f4;fill-opacity:0.61783439;stroke:none"
+       id="rect3408"
+       width="451.55557"
+       height="50.492134"
+       x="-1.4210855e-14"
+       y="246.50787"
+       rx="7.560121e-06"
+       ry="7.5601215e-06" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3360"
+       y="279.85681"
+       x="226.5173"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000"
+         y="279.85681"
+         x="226.5173"
+         sodipodi:role="line"
+         id="tspan3368">CAPCOM 1992</tspan></text>
     <image
-       sodipodi:absref="/home/felipe/devel/github_felipesanches/WebBr2015_MAME_ArchiveOrg/imagens/IC_Decapping.jpg"
-       xlink:href="imagens/IC_Decapping.jpg"
-       width="440.57135"
-       height="221.92346"
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/WebBr2015_MAME_ArchiveOrg/imagens/CarrierAirWing_pcb.jpg"
+       xlink:href="imagens/CarrierAirWing_pcb.jpg"
+       width="307.29861"
+       height="223.81581"
        preserveAspectRatio="none"
-       id="image91"
-       x="5.4921074"
-       y="44.402588" />
+       id="image110"
+       x="72.128487"
+       y="15.758766" />
   </g>
 </svg>
