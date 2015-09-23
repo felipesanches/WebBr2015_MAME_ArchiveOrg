@@ -9,6 +9,7 @@ SLIDES = 00_INTRO.pdf \
          05_Archive_Audio.pdf \
          06_Archive_Imagens.pdf \
          07_Archive_Software.pdf \
+         08_Archive_Software_Demo_MegaMan.pdf \
          10_MAME.pdf \
          11_gunsmoke_placa.pdf \
          14_Carrier_Air_Wing.pdf \
