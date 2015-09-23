@@ -13,7 +13,7 @@
    height="1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
    sodipodi:docname="00_INTRO.svg">
   <defs
@@ -36,16 +36,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45833333"
-     inkscape:cx="894.90569"
-     inkscape:cy="529.76754"
+     inkscape:cx="899.20377"
+     inkscape:cy="617.04027"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1358"
-     inkscape:window-height="698"
+     inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,10 +78,10 @@
        rx="7.560121e-06"
        y="-41.050896"
        x="-1.4210855e-14"
-       height="80.664253"
+       height="119.45698"
        width="451.55557"
        id="rect4075"
-       style="fill:#cccccc;fill-opacity:0.61783441;stroke:none" />
+       style="fill:#cccccc;fill-opacity:0.61783441;stroke:none;stroke-width:1.21692896" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -90,29 +90,34 @@
        id="text4069"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4071"
          x="225.75504"
          y="-5.3350682"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle">Hardware Livre &amp; Engenharia Reversa</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
+         id="tspan3358">MAME / Archive.org:</tspan><tspan
          sodipodi:role="line"
-         x="225.75504"
+         x="229.31398"
          y="24.245682"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
-         id="tspan3358">de dispositivos digitais</tspan></text>
+         id="tspan19">Preservação histórica de </tspan><tspan
+         sodipodi:role="line"
+         x="225.75504"
+         y="53.826431"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
+         id="tspan21">dispositivos eletrônicos na web</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3360"
-       y="116.58493"
+       y="159.0722"
        x="225.73735"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.66460037px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan3364"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle"
-         y="116.58493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000;"
+         y="159.0722"
          x="225.73735"
          sodipodi:role="line">Felipe Sanches</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle"
-         y="146.16568"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000;"
+         y="188.65295"
          x="225.73735"
          sodipodi:role="line"
          id="tspan3368">juca@members.fsf.org</tspan></text>
