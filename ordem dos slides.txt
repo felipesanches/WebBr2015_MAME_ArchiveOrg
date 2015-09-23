@@ -1,11 +1,11 @@
 00 Intro: Título + Felipe Sanches + email
 01 Internet Archive + logo
 02 WaybackMachine
-03 Livros
-04 Música
-05 Imagens
-06 Vídeos
-07 Software:
+03 Textos
+04 Vídeos
+05 Áudio
+06 Imagens
+07 Software
 08 DEMO: https://archive.org/details/gg_Mega_Man_1994Capcom_U.S._Gold
 09 MAME + MESS
 10 O que é MAME ?
