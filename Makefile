@@ -16,6 +16,7 @@ SLIDES = 00_INTRO.pdf \
          13_Carrier_Air_Wing_placa.pdf \
          14_Carrier_Air_Wing.pdf \
          16_MESS.pdf \
+         17_Apple_II.pdf \
          23_Replicator_1.pdf \
          24_Uzebox.pdf \
          25_Minicom_IV.pdf \
