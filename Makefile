@@ -4,9 +4,9 @@ GHOSTSCRIPT = gs
 SLIDES = 00_INTRO.pdf \
          01_Internet_Archive.pdf \
          02_WaybackMachine.pdf \
-         08_Carrier_Air_Wing.pdf \
          10_MAME.pdf \
          11_gunsmoke_placa.pdf \
+         14_Carrier_Air_Wing.pdf \
          16_MESS.pdf \
          23_Replicator_1.pdf \
          24_Uzebox.pdf \
