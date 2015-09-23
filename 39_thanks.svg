@@ -14,9 +14,9 @@
    height="1200"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13740 custom"
+   inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
-   sodipodi:docname="17_thanks.svg">
+   sodipodi:docname="39_thanks.svg">
   <defs
      id="defs4">
     <clipPath
@@ -36,17 +36,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45833333"
-     inkscape:cx="722.39013"
-     inkscape:cy="540.52965"
+     inkscape:zoom="0.4625"
+     inkscape:cx="800"
+     inkscape:cy="600"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1358"
-     inkscape:window-height="698"
+     inkscape:window-height="715"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,15 +114,15 @@
            height="436.36365"
            x="661.09094"
            y="525.81818" /></flowRegion><flowPara
-         id="flowPara3600"></flowPara></flowRoot>    <image
-       sodipodi:absref="/home/felipe/devel/github_felipesanches/FISL2015_HardwareLivre_e_EngenhariaReversa/imagens/gamenotover.jpg"
+         id="flowPara3600" /></flowRoot>    <image
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/WebBr2015_MAME_ArchiveOrg/imagens/gamenotover.jpg"
        xlink:href="imagens/gamenotover.jpg"
-       width="441.29294"
-       height="220.64647"
-       preserveAspectRatio="none"
+       y="12.764071"
+       x="19.166145"
        id="image3780"
-       x="5.13131"
-       y="17.035543" />
+       preserveAspectRatio="none"
+       height="206.61163"
+       width="413.22327" />
     <text
        sodipodi:linespacing="125%"
        id="text3783"
@@ -135,5 +135,17 @@
          y="280.37643"
          x="225.95927"
          sodipodi:role="line">juca@members.fsf.org</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50893402px;line-height:125%;font-family:FreeMono;-inkscape-font-specification:FreeMono;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2606028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4.9491668"
+       y="237.10344"
+       id="text5542"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5540"
+         x="4.9491668"
+         y="237.10344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';stroke-width:0.2606028px">https://github.com/felipesanches/WebBr2015_MAME_ArchiveOrg/</tspan></text>
   </g>
 </svg>
