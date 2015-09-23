@@ -28,6 +28,7 @@ SLIDES = 00_INTRO.pdf \
          30_paradox.pdf \
          31_WebCam_MacBooks.pdf \
          34_Internet_of_Things.pdf \
+         35_Transpilacao.pdf \
          38_Futuro_scanners_3D.pdf \
          39_thanks.pdf
 
