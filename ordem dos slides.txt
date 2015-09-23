@@ -31,7 +31,7 @@
 30 Paradoxo: Ativista de sw livre lidando com jogos priprietários e preocupado com blobs não-livres no kernel
 31 WebCam MacBooks
 32 Escândalo da VolksWagen: firmware malicioso
-33 UEFI / SecureBoot
+33 SecureBoot
 34 Internet of Things
 35 Transpilação: C -> Javascript
 36 Transpilação de software proprietário?
