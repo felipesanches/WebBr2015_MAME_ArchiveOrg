@@ -1,0 +1,38 @@
+00 Intro: Título + Felipe Sanches + email
+01 Internet Archive + logo
+02 WaybackMachine
+03 Livros
+04 Música
+05 Imagens
+06 Vídeos
+07 Software:
+08 DEMO: https://archive.org/details/gg_Mega_Man_1994Capcom_U.S._Gold
+09 MAME + MESS
+10 O que é MAME ?
+11 GunSmoke: Placa 1985
+12 GunSmoke: Jogo
+13 Carrier Air Wing: Placa 1993
+14 Carrier Air Wing: Jogo
+15 Street Fighter II 
+16 O que é MESS ?
+17 Apple II
+18 Commodore 64
+19 MSX
+20 Odyssey²
+21 Atari
+22 SEGA Genesis
+23 Replicator 1 - open hardware
+24 Uzebox - open hardware
+25 Minicom IV - not open hardware
+26 Software Livre ?
+27 Datasheet
+28 Reverse Engeneering
+29 Projeto Linux Libre -> blobs
+30 Paradoxo: Ativista de sw livre lidando com jogos priprietários e preocupado com blobs não-livres no kernel
+31 WebCam MacBooks
+32 Escândalo da VolksWagen: firmware malicioso
+33 UEFI / SecureBoot
+34 Futuro: scanners 3D + OpenGL / WebGL
+35 Transpilação de software proprietário?
+36 Javascript: arbitrary code injection
+37 Thanks & Contacts
