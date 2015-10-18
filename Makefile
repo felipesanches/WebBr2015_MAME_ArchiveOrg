@@ -34,7 +34,7 @@ SLIDES = 00_INTRO.pdf \
          38_Futuro_scanners_3D.pdf \
          39_thanks.pdf
 
-PDF = WebBR2015_MAME_InternetArchive.pdf
+PDF = CoOL2015_MAME.pdf
 
 all: $(PDF)
 
