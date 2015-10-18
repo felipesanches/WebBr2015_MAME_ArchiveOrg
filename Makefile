@@ -31,9 +31,6 @@ SLIDES = 00_INTRO.pdf \
          32_VW.pdf \
          33_SecureBoot.pdf \
          34_Internet_of_Things.pdf \
-         35_Transpilacao.pdf \
-         36_Transpilacao_proprietario.pdf \
-         37_Javascript.pdf \
          38_Futuro_scanners_3D.pdf \
          39_thanks.pdf
 
